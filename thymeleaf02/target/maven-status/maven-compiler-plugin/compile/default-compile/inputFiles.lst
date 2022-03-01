@@ -1,0 +1,12 @@
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\entity\Member.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\dto\ItemDto.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\repository\MemberRepository.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\constant\ItemSellStatus.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\repository\ItemRepository.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\Thymeleaf02Application.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\config\SecurityConfig.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\controller\ThymeleafController.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\entity\Item.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\dto\MemberFormDto.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\service\MemberService.java
+C:\springBoot\thymeleaf_Layout\thymeleaf02\src\main\java\co\kr\thymeleaf02\constant\Role.java
